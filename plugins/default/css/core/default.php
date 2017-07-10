@@ -418,7 +418,7 @@ a:hover {
     padding: 10px;
     display: inline-flex;
     cursor: pointer;
-    font-weight: bold;
+    font-weight: bold; 
     font-size: 13px;
 }
 .ossn-wall-container .wall-tabs .item:hover	{
@@ -1224,7 +1224,7 @@ a:hover {
 .user-photo-uploading {
     height: 100%;
     opacity: 0.8;
-    background: #fff;
+    background: #000;
     width: 100%;
     padding: 7px;
     position: absolute;
