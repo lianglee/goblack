@@ -897,20 +897,21 @@ a:hover {
 
 .ossn-notifications-box {
     width: 430px;
-    color: #000;
+    color: #fff;
+	background-color: #757575;
 }
 .ossn-notifications-box .notificaton-item {
     border-bottom: 1px solid #eee;
 }
 .ossn-notifications-box .notificaton-item:hover,
 .ossn-notifications-box .notificaton-item .active {
-    background-color: #F9F9F9;
+    background-color: #757575;
 }
 .ossn-notifications-box .type-name {
     font-size: 13px;
     font-weight: bold;
     padding: 1px 10px 5px 10px;
-    color: #000;
+    color: #fff;
     height: 25px;
     border-bottom: 1px solid #DDDDDD;
 }
@@ -931,7 +932,7 @@ a:hover {
     float: right;
 }
 .ossn-notifications-box .type-name .links a {
-    color: #337ab7;
+    color: #fff;
     display: inline;
     font-weight: normal;
 }
@@ -943,20 +944,20 @@ a:hover {
 }
 .ossn-notifications-box .bottom-all a,
 .ossn-notifications-box .notfi-meta strong {
-    color: #337ab7;
+    color: #fff;
 }
 .ossn-notifications-box .notfi-meta {
     width: 330px;
     margin-left: 5px;
     display: inline-block;
     float: right;
-    color: #000;
+    color: #fff;
 }
 .ossn-notifications-box .bottom-all a {
     font-weight: bold;
 }
 .ossn-notifications-box .bottom-all {
-    background: #F7F7F7;
+    background: #757575;
     text-align: center;
     padding: 0px;
     padding-top: 10px;
@@ -991,11 +992,11 @@ a:hover {
 .ossn-notifications-box a:hover,
 .ossn-notifications-all a:hover,
 .ossn-notifications-all li:hover {
-    background: #F9F9F9;
+    background: #757575;
 }
 .ossn-notification-container {
-    background-color: #dc0d17;
-    background-image: -webkit-linear-gradient(#fa3c45, #dc0d17);
+    background-color: #757575;
+    background-image: -webkit-linear-gradient(#fa3c45, #757575);
     color: #fff;
     min-height: 13px;
     padding: 1px 3px;
