@@ -1285,7 +1285,7 @@ a:hover {
     display: block;
 }
 .ossn-menu-search li:hover {
-    background: #F9F9F9;
+    background: #070707;
 }
 .ossn-menu-search li a {
     display: block;
